@@ -3,7 +3,7 @@ from setuptools import find_packages, setup
 setup(
     name='crewcharge_core',
     packages=find_packages(include=["crewcharge_core"]),
-    version='1.0.0',
+    version='1.0.1',
     description='Crewcharge is a customer analytics, customer success tool for SaaS companies. The core package allows logging triggers and performing user crud operations within Crewcharge',
     author='Bharadwaj Giridhar',
     license='MIT',
